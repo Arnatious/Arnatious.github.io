@@ -106,7 +106,8 @@ html {
 }
 
 body {
-    min-height: 100%;
+    overflow-x: hidden;
+    height: 100%;
 }
 
 .container {
@@ -185,31 +186,6 @@ label[for="nav-trigger"] {
     transition: left .2s;
     animation-timing-function: cubic-bezier(0.4, 0.0, 0.2, 1);
 }
-
-body {
-    overflow-x: hidden;
-    height: 100%;
-}
-
-header {
-    background: #fff;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    grid-column: span 12;
-    font-family: 'Roboto Slab', serif;
-    font-weight: bold;
-}
-
-main {
-    grid-column: span 12;
-    padding: 0 2em;
-    max-width: 80ch;
-    justify-content: center;
-    margin: auto;
-    font-size: 14pt;
-}
-
 
 
 /* ==========================================================================
