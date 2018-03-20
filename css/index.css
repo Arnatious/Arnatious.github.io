@@ -1,15 +1,17 @@
 header {
     text-align: center;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
+    flex: 1 0 auto;
 }
 
 main {
     padding: 0 2em;
     max-width: 66ch;
-    justify-content: center;
+    text-align: center;
     margin: auto;
     font-size: 14pt;
+    flex: 1 0 auto;
 }
 
 
