@@ -1,6 +1,3 @@
-<!doctype html>
-<html class="no-js" lang="">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -16,6 +13,13 @@
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/index.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+
+    <style>
+        .spamno::before { content: attr(dat-usr) }
+
+        .spamno::after { content: attr(dat-dom) }
+    </style>
 </head>
 
 <body>
@@ -42,45 +46,35 @@
     <label for="nav-trigger"></label>
 
     <div class="container">
-        <header class="header">
-            <h1 class="header__title">Ted Kern</h1>
+        <header>
+            <h1>
+                Contact Me
+            </h1>
         </header>
 
-        <main class="home">
-            <p>
-                I'm Ted <br> A roboticist, electrical engineer, RPG enthusiast, and VR dev.
-            </p>
-
-            <p>
-                Currently in the Pittsburgh area.
-            </p>
-
-            <p>
-                Find me at JPL, E3, and PAX East this year.
-            </p>
+        <main>
+            <p><div class="spamno" dat-usr="tkern" dat-dom="arnatious.com">&#64;</div></p>
         </main>
 
         <footer>
-            <p>
-                &copy; 2018 Ted Kern. Made with
-                <a href="https://html5boilerplate.com/">HTML5 Boilerplate</a>
-            </p>
-            <p>
-                <svg width="50" height="50">
-                    <a href="https://www.gitlab.com/arnatious">
-                        <image href="img/stacked_wm_no_bg.svg" height="50" width="50" />
-                    </a>
-                </svg>
-                &ensp;
-                <svg width="50" height="50">
-                    <a href="https://www.github.com/arnatious">
-                        <image href="img/GitHub-Mark.svg" height="50" width="50" />
-                    </a>
-                </svg>
-            </p>
-        </footer>
+                <p>
+                    &copy; 2018 Ted Kern. Made with
+                    <a href="https://html5boilerplate.com/">HTML5 Boilerplate</a>
+                </p>
+                <p>
+                    <svg width="50" height="50">
+                        <a href="https://www.gitlab.com/arnatious">
+                            <image href="img/stacked_wm_no_bg.svg" height="50" width="50" />
+                        </a>
+                    </svg>
+                    &ensp;
+                    <svg width="50" height="50">
+                        <a href="https://www.github.com/arnatious">
+                            <image href="img/GitHub-Mark.svg" height="50" width="50" />
+                        </a>
+                    </svg>
+                </p>
+            </footer>
     </div>
-    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+<script src="js/vendor/modernizr-3.5.0.min.js"></script>
 </body>
-
-</html>
