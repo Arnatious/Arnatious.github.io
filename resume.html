@@ -47,7 +47,13 @@
 
 
     <div class="container">
-        <iframe src="https://drive.google.com/file/d/1E54F4vQj_waAyOBiqvlKqJUwb_E35Qej/preview" width="640" height="480"></iframe>
+        <iframe id="res" src="https://mozilla.github.io/pdf.js/web/viewer.html" width="640" height="480"></iframe>
+        <script>
+            var resFrame = document.getElementById("res");
+            var resURI = encodeURIComponent("https://www.arnatious.com/res/CV.pdf")
+            resFrame.src += "?file=" + resURI;
+            console.log(resFrame.src);
+        </script>
         <footer>
             <p>
                 &copy; 2018 Ted Kern. Made with
