@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Ted Kern</title>
+    <link>http://arnatious.com/</link>
+    <description>Recent content in Homepage on Ted Kern</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://arnatious.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://arnatious.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arnatious.com/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla aliquet enim tortor at auctor urna nunc. Fringilla ut morbi tincidunt augue interdum velit euismod. Eleifend donec pretium vulputate sapien nec. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Ornare arcu odio ut sem nulla pharetra. Vel turpis nunc eget lorem dolor sed viverra ipsum. Pellentesque elit eget gravida cum sociis.</description>
+    </item>
+    
+  </channel>
+</rss>
