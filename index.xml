@@ -16,7 +16,19 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://arnatious.com/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla aliquet enim tortor at auctor urna nunc. Fringilla ut morbi tincidunt augue interdum velit euismod. Eleifend donec pretium vulputate sapien nec. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Ornare arcu odio ut sem nulla pharetra. Vel turpis nunc eget lorem dolor sed viverra ipsum. Pellentesque elit eget gravida cum sociis.</description>
+      <description>Ted Kern (&amp;ldquo;Arnatious&amp;rdquo;)
+Roboticist, tools programmer, robotics engineering advocate.
+Background in classical AI, planning and decision making, embedded systems, and human-robot interaction.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://arnatious.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arnatious.com/contact/</guid>
+      <description>arnatious@gmail.com
+   </description>
     </item>
     
   </channel>
