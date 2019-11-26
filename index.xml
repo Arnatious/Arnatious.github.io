@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Ted Kern</title>
-    <link>http://arnatious.com/</link>
+    <link>https://arnatious.com/</link>
     <description>Recent content in Homepage on Ted Kern</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://arnatious.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arnatious.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://arnatious.com/about/</link>
+      <link>https://arnatious.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://arnatious.com/about/</guid>
+      <guid>https://arnatious.com/about/</guid>
       <description>Ted Kern (&amp;ldquo;Arnatious&amp;rdquo;)
 Roboticist, tools programmer, robotics engineering advocate.
 Background in classical AI, planning and decision making, embedded systems, and human-robot interaction.</description>
@@ -23,10 +23,10 @@ Background in classical AI, planning and decision making, embedded systems, and 
     
     <item>
       <title>Contact</title>
-      <link>http://arnatious.com/contact/</link>
+      <link>https://arnatious.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://arnatious.com/contact/</guid>
+      <guid>https://arnatious.com/contact/</guid>
       <description>arnatious@gmail.com
    </description>
     </item>
