@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://arnatious.com/about/</loc>
+    <loc>https://arnatious.com/blog/venvs/venv/</loc>
+    <lastmod>2020-03-05T08:31:39-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://arnatious.com/blog/</loc>
+    <lastmod>2020-03-05T08:31:39-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arnatious.com/</loc>
+    <lastmod>2020-03-05T08:31:39-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arnatious.com/about/</loc>
   </url>
   
   <url>
@@ -16,10 +27,6 @@
   
   <url>
     <loc>https://arnatious.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://arnatious.com/</loc>
   </url>
   
   <url>

@@ -6,9 +6,20 @@
     <description>Recent content in Blog on Ted Kern</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2020 08:31:39 -0800</lastBuildDate>
     
 	<atom:link href="https://arnatious.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Short Virtual Environment Primer</title>
+      <link>https://arnatious.com/blog/venvs/venv/</link>
+      <pubDate>Thu, 05 Mar 2020 08:31:39 -0800</pubDate>
+      
+      <guid>https://arnatious.com/blog/venvs/venv/</guid>
+      <description>Virtual envs create a lightweight copy of your current Python binary and a clean, separate site packages folder.
+To create a virtual environment, use the venv module:</description>
+    </item>
     
   </channel>
 </rss>
