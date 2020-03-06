@@ -17,8 +17,7 @@
       <pubDate>Thu, 05 Mar 2020 08:31:39 -0800</pubDate>
       
       <guid>https://arnatious.com/blog/venv-primer/</guid>
-      <description>Virtual envs create a lightweight copy of your current Python binary and a clean, separate site packages folder.
-To create a virtual environment, use the venv module:</description>
+      <description>A small primer on virtual environments, a standard part of the python development toolkit.</description>
     </item>
     
   </channel>

@@ -73,15 +73,14 @@
 
 <section id="main">
     <h1 id="title">A Short Virtual Environment Primer</h1>
-    <div>
-        <article id="content">
-            <p>Virtual envs create a lightweight copy of your current Python binary and a clean, separate site packages folder.</p>
+    <article id="content">
+        <p>Virtual envs create a lightweight copy of your current Python binary and a clean, separate site packages folder.</p>
 <p>To create a virtual environment, use the venv module:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ubuntu@ubuntu:~$ mkdir foo <span style="color:#f92672">&amp;&amp;</span> cd foo
 ubuntu@ubuntu:~/foo$ python3 -m venv my_env
 ubuntu@ubuntu:~/foo$ ls -al
 .  ..  my_env
-</code></pre></div><p>The my_env folder here contains a lightweight copy of your current python distribution, with only basic packages installed</p>
+</code></pre></div><p>The <code>my_env</code> folder here contains a lightweight copy of your current python distribution, with only basic packages installed</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ubuntu@ubuntu:~/foo$ ls my_env
 bin  include  lib  lib64  pyvenv.cfg  share
 </code></pre></div><p>The my_env/bin directory contains scripts for activating the virtual environment, binaries for pip and easy_install, and symlinks to your system python.</p>
@@ -170,7 +169,7 @@ typing-extensions<span style="color:#f92672">=</span><span style="color:#f92672"
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#f92672">(</span>my_env<span style="color:#f92672">)</span> ubuntu@ubuntu:~/foo$ pip install -r requirements.txt
 </code></pre></div><p><code>requirements.txt</code> should be version controlled and included with the source.</p>
 
-            
+        
 
 
 
@@ -178,10 +177,9 @@ typing-extensions<span style="color:#f92672">=</span><span style="color:#f92672"
 
 
 
-            
+        
 
-        </article>
-    </div>
+    </article>
 </section>
 
 
