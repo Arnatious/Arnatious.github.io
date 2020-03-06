@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://arnatious.com/blog/venv-primer/</loc>
-    <lastmod>2020-03-05T08:31:39-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://arnatious.com/blog/</loc>
-    <lastmod>2020-03-05T08:31:39-08:00</lastmod>
+    <lastmod>2020-03-05T13:03:02-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://arnatious.com/</loc>
+    <lastmod>2020-03-05T13:03:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arnatious.com/blog/lxc/</loc>
+    <lastmod>2020-03-05T13:03:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arnatious.com/blog/venv-primer/</loc>
     <lastmod>2020-03-05T08:31:39-08:00</lastmod>
   </url>
   

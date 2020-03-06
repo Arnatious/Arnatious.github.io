@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Ted Kern</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2020 08:31:39 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 13:03:02 -0800</lastBuildDate>
     
 	<atom:link href="https://arnatious.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ROS Development with LXD</title>
+      <link>https://arnatious.com/blog/lxc/</link>
+      <pubDate>Thu, 05 Mar 2020 13:03:02 -0800</pubDate>
+      
+      <guid>https://arnatious.com/blog/lxc/</guid>
+      <description>Linux containers allow for easy isolation of developer environments. If you&#39;re often working with a bunch of different ROS versions, it&#39;s a lot easier to do your work entirely in containers.</description>
+    </item>
     
     <item>
       <title>A Short Virtual Environment Primer</title>
